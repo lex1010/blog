@@ -1,0 +1,12 @@
+<!-- docs/%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/_sidebar.md -->
+
+
+* Struts 2
+    * [CVE-2018-11776 S2-057](/%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/CVE-2018-11776.md)
+
+    * [CVE-2019-0230 S2-059](/%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/CVE-2019-0230.md)
+
+* Exchange Server
+    * [CVE-2020-16875 Exchange Server RCE](/%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/CVE-2020-16875.md)
+
+    * [CVE-2020-17803 & CVE-2020-17804 Exchange Server RCE](/%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/CVE-2020-17803.md)
