@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
 <body>
   <div id="app"></div>
@@ -19,10 +20,41 @@
       subMaxLevel: 5,
       alias: {
         '/.*/_navbar.md': '/_navbar.md'
+      },
+      search: 'auto',
+      search: [
+        '/',
+        '/漏洞分析/',
+        '/HTB/',
+        '/安全研究/'
+      ],
+      search: {
+        maxAge: 86400000,
+        paths: [], // or 'auto'
+        placeholder: 'Type to search',
+        depth: 2,
+        hideOtherSidebarContent: false
       }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'c9027613af78469f31f8',
+      clientSecret: 'ba45bbfaff3a6a5b3b31d98d8ef08c721c95d460',
+      repo: 'blog',
+      owner: 'r00t-life',
+      admin: ['r00t-life'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
 </body>
 </html>
