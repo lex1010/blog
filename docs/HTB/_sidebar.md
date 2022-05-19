@@ -1,6 +1,7 @@
 <!-- docs/HTB/_sidebar.md -->
 
 * Web
+
     * [abusehumandb](/HTB/Web/abusehumandb.md)
 
     * [cachedview](/HTB/Web/cachedview.md)
@@ -32,3 +33,11 @@
     * [Under_Construction](/HTB/Web/Under_Construction.md)
 
     * [weather_app](/HTB/Web/weather_app.md)
+
+* Machine
+
+    * [Backend](/HTB/Machine/Backend.md)
+
+    * [BackendTwo](/HTB/Machine/BackendTwo.md)
+
+    * [Holiday](/HTB/Machine/Holiday.md)
