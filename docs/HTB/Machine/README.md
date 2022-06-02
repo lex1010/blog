@@ -9,3 +9,5 @@
 * [Sauna](/HTB/Machine/Sauna.md)
 
 * [Active](/HTB/Machine/Active.md)
+
+* [Blackfield](/HTB/Machine/Blackfield.md)
