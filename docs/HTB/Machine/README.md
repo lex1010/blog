@@ -11,3 +11,5 @@
 * [Active](/HTB/Machine/Active.md)
 
 * [Blackfield](/HTB/Machine/Blackfield.md)
+
+* [Reel](/HTB/Machine/Reel.md)

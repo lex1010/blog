@@ -51,3 +51,5 @@
     * [Active](/HTB/Machine/Active.md)
 
     * [Blackfield](/HTB/Machine/Blackfield.md)
+
+    * [Resolute](/HTB/Machine/Resolute.md)
