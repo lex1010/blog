@@ -19,3 +19,5 @@
     * [Resolute](/HTB/Machine/Resolute.md)
 
     * [Reel](/HTB/Machine/Reel.md)
+
+    * [Sizzle](/HTB/Machine/Sizzle.md)

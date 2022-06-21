@@ -53,3 +53,5 @@
     * [Blackfield](/HTB/Machine/Blackfield.md)
 
     * [Resolute](/HTB/Machine/Resolute.md)
+
+    * [Sizzle](/HTB/Machine/Sizzle.md)
