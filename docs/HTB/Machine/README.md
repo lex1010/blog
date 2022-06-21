@@ -13,3 +13,5 @@
 * [Blackfield](/HTB/Machine/Blackfield.md)
 
 * [Reel](/HTB/Machine/Reel.md)
+
+* [Sizzle](/HTB/Machine/Sizzle.md)
