@@ -12,6 +12,14 @@
 
 * [Blackfield](/HTB/Machine/Blackfield.md)
 
+* [Resolute](/HTB/Machine/Resolute.md)
+
 * [Reel](/HTB/Machine/Reel.md)
 
 * [Sizzle](/HTB/Machine/Sizzle.md)
+
+* [Mantis](/HTB/Machine/Mantis.md)
+
+* [Cascade](/HTB/Machine/Cascade.md)
+
+* [Multimaster](/HTB/Machine/Multimaster.md)

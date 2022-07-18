@@ -11,7 +11,7 @@
     * [Forest](/HTB/Machine/Forest.md)
 
     * [Sauna](/HTB/Machine/Sauna.md)
-    
+
     * [Active](/HTB/Machine/Active.md)
 
     * [Blackfield](/HTB/Machine/Blackfield.md)
@@ -21,3 +21,9 @@
     * [Reel](/HTB/Machine/Reel.md)
 
     * [Sizzle](/HTB/Machine/Sizzle.md)
+
+    * [Mantis](/HTB/Machine/Mantis.md)
+
+    * [Cascade](/HTB/Machine/Cascade.md)
+
+    * [Multimaster](/HTB/Machine/Multimaster.md)
