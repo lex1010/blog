@@ -60,3 +60,7 @@
 
 * [4 Array Index](/学习笔记/Pwn/4%20Array%20%20Index.md)
     * [4.1 Csaw 2018 doubletrouble](/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pwn/4.1%20Csaw%202018%20doubletrouble.md)
+
+    * [4.2 Defcon Quals 2016 xkcd](/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pwn/4.2%20Defcon%20Quals%202016%20xkcd.md)
+
+    * [4.3 Sunshine CTF 2017 Alternate Solution](/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pwn/4.3%20Sunshine%20CTF%202017%20Alternate%20Solution.md)
